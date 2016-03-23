@@ -1,0 +1,1 @@
+This is my repository for my personal Google Chrome themes. Feel free to use them,
