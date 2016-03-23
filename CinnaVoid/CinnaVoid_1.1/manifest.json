@@ -1,0 +1,30 @@
+{
+   "description": "Quick Chrome theme for Linux Mint Cinnamon with Void theme.",
+   "key": "MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgH3InVbHZGTqtLuuXk2BYcYc2k97JrjrumN6cgiJ4Mc52dtmj3sGg3uz4ImAinxai+KuV/sfOzHPwcKKrzi9DTlaPx0wfiYikqaMi7okBtdmmw1Z/efFdNMvdjA9HoH3kPg2EpTtXnfjb9TKY2sIsafbdK2qYNXsI0BdKXNK20a3AgMBAAE=",
+   "manifest_version": 2,
+   "name": "CinnaVoid",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 204, 204, 204 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_link_underline": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 153, 153, 153, 0.6 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center center",
+         "ntp_background_repeat": "no-repeat"
+      }
+   },
+   "version": "1.1"
+}
